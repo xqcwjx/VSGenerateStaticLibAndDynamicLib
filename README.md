@@ -4,7 +4,7 @@
 
 第一步
 
-![](C:\Users\Administrator\Desktop\VSGenerateStaticLibAndDynamicLib\image\1.png)
+![](https://github.com/xqcwjx/VSGenerateStaticLibAndDynamicLib/blob/main/image/1.png)
 
 第二步
 
